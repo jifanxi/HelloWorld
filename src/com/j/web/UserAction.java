@@ -9,4 +9,8 @@ public class UserAction {
 		System.out.println(1223233);
 		System.out.println(1223233);
 	}
+	
+	public String login() {
+		return "success";
+	}
 }
