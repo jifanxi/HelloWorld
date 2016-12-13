@@ -8,10 +8,10 @@ public class UserAction {
 	}
 	
 	public String login() {
+		System.out.println("do something ...ddddddddddddd");
 		System.out.println("do something ...");
-		System.out.println("do something ...");
-		System.out.println("do something ...");
-		System.out.println("do something ...");
+		System.out.println("do something ..."); 
+		System.out.println("do something ..."); 
 		return "success"; 
 	}
 }
