@@ -12,6 +12,7 @@ public class UserAction {
 		System.out.println("do something ...");
 		System.out.println("do something ..."); 
 		System.out.println("do something ..."); 
+		System.out.println("do something ..."); 
 		return "success"; 
 	}
 }
